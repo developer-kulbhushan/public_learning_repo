@@ -5,3 +5,6 @@ contents:
 4. Dev
 5. Harshit
 6. Bhawna
+7. Sonal
+8. Anjali
+9. Aditya Chandra
