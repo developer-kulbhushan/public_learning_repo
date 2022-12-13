@@ -10,4 +10,3 @@ contents:
 9. Aditya Chandra
 10. New Name
 11. New New Name Test
-12. New New Name Test Test
